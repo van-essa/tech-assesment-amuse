@@ -107,6 +107,8 @@ Or not:
 
 Also, no matter how I type my answer it is accepted:
 ![User Story 3](media/testanswer.png)
+
+
 ![User Story 3](media/_testanswer.png)
 
 **As a user, I can get the sum of artists' streams to get the total amount of streams from each artist in the Spotify Charts data.**
@@ -114,10 +116,16 @@ Also, no matter how I type my answer it is accepted:
 
 **As a user, I can get an error message to try again or exit the script when no artist exists, or the name is typed wrong.**
 ![User Story 5](media/wrongname.png)
+
+
 ![User Story 5](media/tryagain.png)
+
+
 ![User Story 5](media/donttryagain.png)
 
 Also, no matter how I type my answer it is accepted
 ![User Story 5](media/1testanswer.png)
+
+
 ![User Story 5](media/2testanswer.png)
 
