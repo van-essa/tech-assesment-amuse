@@ -97,27 +97,27 @@ This project has been tested manually by the creator, Vanessa Andersson:
 !User Story 1](media/Name)
 
 **As a user, I can type the artist's name with lower, upper or mixed cases to get the streams from the Spotify Charts data.**
-!User Story 2](media/case-sensitive.png)
+![User Story 2](media/case-sensitive.png)
 
 **As a user, I can choose to quit the script.**
-!User Story 3](media/Quit_yes.png)
+![User Story 3](media/Quit_yes.png)
 
 Or not:
-!User Story 3](media/Quit_no.png)
+![User Story 3](media/Quit_no.png)
 
 Also, no matter how I type my answer it is accepted:
-!User Story 3](media/testanswer.png)
-!User Story 3](media/_testanswer.png)
+![User Story 3](media/testanswer.png)
+![User Story 3](media/_testanswer.png)
 
 **As a user, I can get the sum of artists' streams to get the total amount of streams from each artist in the Spotify Charts data.**
-!User Story 4](media/Name.png)
+![User Story 4](media/Name.png)
 
 **As a user, I can get an error message to try again or exit the script when no artist exists, or the name is typed wrong.**
-!User Story 5](media/wrongname.png)
-!User Story 5](media/tryagain.png)
-!User Story 5](media/donttryagain.png)
+![User Story 5](media/wrongname.png)
+![User Story 5](media/tryagain.png)
+![User Story 5](media/donttryagain.png)
 
 Also, no matter how I type my answer it is accepted
-!User Story 5](media/1testanswer.png)
-!User Story 5](media/2testanswer.png)
+![User Story 5](media/1testanswer.png)
+![User Story 5](media/2testanswer.png)
 
